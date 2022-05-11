@@ -22,5 +22,10 @@
         "sass-loader": "^8.0.0",
         "vue": "^2.5.17",
         "vue-template-compiler": "^2.6.10"
+    },
+    "dependencies": {
+        "@vue/composition-api": "^1.6.1",
+        "@vuelidate/core": "^2.0.0-alpha.41",
+        "@vuelidate/validators": "^2.0.0-alpha.29"
     }
 }
